@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    max-width: 80%;
+    margin: auto;
+}
+.display{
+   margin: 0px ;
+
+}
+.heading{
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 50px;
+   
+}
+.heading a{
+    text-decoration:none;
+    padding-right:10px;
+    font-size:18px;
+    font-weight: bold;
+}
+/* banner section */
+
+.banner{
+display: flex;
+justify-content: space-between;
+padding: 0px 90px;
+}
+.banner1{
+    padding-right: 300px;
+}
+
+}
+.banner2{
+
+}
+.btn1{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: tomato;
+    color: white;
+    border: none;
+}
+.btn1:hover{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: 1px solid blue;
+}
+.banner1 p{
+text-align: justify;
+}
+
+/* 2nd section */
+.section2{
+margin-top: 30px;
+background-color: #EDF7FA;
+}
+.post{
+    display: flex;
+    justify-content: space-between;
+   padding: 0px 90px;
+   
+}
+.resentpost{
+    margin:25px;
+}
+.viewall{margin:25px;
+}
+.card{
+display: flex;
+justify-content: space-between;
+padding: 30px 90px;
+}
+.card1{
+    background-color: #fff;
+    
+    margin-right: 20px;
+}
+.aj{
+    margin:25px;
+}
+.card2{
+    background-color: #fff;
+  
+    margin-right: 20px;
+}
+.bj{
+    padding: 0px 90px;
+}
+.work1{
+    display: flex;
+}
+.work1 p{
+    text-align: justify;
+}
+.cnt h1{
+    margin-bottom: 20px;
+    color:  #21243D;
+}
+.cnt span{
+    font-size: 20px;
+   color:  #8695A4;
+}
+.cnt p{
+    padding-right: 250px;
+    margin-top: 20px;
+}
+.btn2{
+    background-color:black;
+    color: #fff;
+    border-radius: 40%;
+    padding: 0px 30px;
+    margin-right: 25px;
+}
+.works{
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+hr{
+    margin: 10px 90px;
+}
+.img1{
+    text-align: center;
+}
+.img1 a{
+text-decoration: none;
+margin-left: 25px;
+}
+.text{
+    text-align: center;
+    padding: 0px 50px;
+    font-weight: 700;
+}
